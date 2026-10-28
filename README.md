@@ -42,7 +42,9 @@ entre usuarios y servidores.
 
 ## 🌐 Cisco Packet Tracer
 
-![Cisco Packet Tracer](https://github.com/pepeviver9-sketch/Parket-)Tracker/blob/fc3e9034cc4613c62682eb14f0d7b43ae2dd58f6/7.jpg
+![Cisco Packet Tracer](https://github.com/pepeviver9-sketch/Parket-Tracker/blob/fc3e9034cc4613c62682eb14f0d7b43ae2dd58f6/7.jpg)
+
+[CiscoPacketTracker/blob/fc3e9034cc4613c62682eb14f0d7b43ae2dd58f6/7.jpg
 Packet Tracer permite estudiar algunos de los fundamentos de
 comunicación que hacen posibles estos servicios.
 
