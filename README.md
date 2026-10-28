@@ -10,7 +10,9 @@
 
 Cisco Packet Tracer es un software desarrollado por Cisco que permite
 diseñar, configurar y simular redes informáticas de manera virtual.
+## 🌐 Cisco Packet Tracer
 
+![Cisco Packet Tracer](imagenes/packet-tracer.png)
 Esta herramienta facilita el aprendizaje de redes y permite practicar
 con routers, switches, computadores y servidores sin necesitar todos
 los dispositivos físicos.
