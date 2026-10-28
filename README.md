@@ -92,6 +92,9 @@ sociales.
 7. Ejecutar pruebas de conectividad.
 8. Analizar el recorrido de los paquetes.
 
+## 🌐 Cisco Packet Tracer
+
+![Cisco Packet Tracer](https://github.com/pepeviver9-sketch/Parket-Tracker/blob/dbfad9fc87f520f06dbc4d29bbece2471ff02c81/images%20(1).jpeg)
 ## ✅ Ventajas
 
 - Reduce los costos de las prácticas.
